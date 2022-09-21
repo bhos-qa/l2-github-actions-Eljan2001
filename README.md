@@ -1,1 +1,1 @@
-# l2-github-actions-Eljan2001
+Status badge about the workflow runs
