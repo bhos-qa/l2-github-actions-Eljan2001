@@ -1,0 +1,4 @@
+rootProject.name = 'grad'
+include 'src:test:org.example'
+findProject(':src:test:org.example')?.name = 'org.example'
+
